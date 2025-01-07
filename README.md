@@ -64,7 +64,7 @@ ORDER BY 1 DESC
 The oldest birth year is 1893, and the youngest is 1996, with the analysis year being 2025, indicating that the data is outdated.
 
 
-**Objective:** Segment by age group, income and analyze purchasing behaviors.
+**Objective:** Segment by age group, income, and analyze purchasing behaviors.
 
 ```sql
 WITH CustomerSegments AS (
@@ -202,12 +202,12 @@ ORDER BY Recency
 ## 3. Insights & Recommendations
 **Customer Segmentation**
 
-• High-Income Customers:
-- Spend significantly more across all categories, particularly on Wines and Meat Products.
-- Dominated by Gen X and Baby Boomers.
+- High-Income Customers:
+  + Spend significantly more across all categories, particularly on Wines and Meat Products.
+  + Dominated by Gen X and Baby Boomers.
   
-• Middle-Income Customers:
-- Moderate engagement with Wines, Meat Products, and Gold Products.
+- Middle-Income Customers:
+  + Moderate engagement with Wines, Meat Products, and Gold Products.
 - Gen X is the largest contributor in this group, followed by Baby Boomers.
   
 • Low-Income Customers:
