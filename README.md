@@ -218,20 +218,20 @@ ORDER BY Recency
 
 Top Product Categories:
 - Wines:
- + The highest revenue driver across all income and age groups.
- + Especially popular among Gen X and Baby Boomers.
+  + The highest revenue driver across all income and age groups.
+  + Especially popular among Gen X and Baby Boomers.
   
 - Meat Products:
- + Strong performance among high and middle-income groups, particularly Gen X.
+  + Strong performance among high and middle-income groups, particularly Gen X.
 
 - Fruits:
- + Low engagement among all demographics. -> Opportunity to market ready-to-eat or pre-packaged options for convenience.
+  + Low engagement among all demographics. -> Opportunity to market ready-to-eat or pre-packaged options for convenience.
    
 - Sweet Products:
- + Weak performance among Millennials and low-income groups. -> Introduce healthier alternatives or smaller-sized products to boost sales.
+  + Weak performance among Millennials and low-income groups. -> Introduce healthier alternatives or smaller-sized products to boost sales.
   
 - Gold Products:
-+ Moderate performance but with potential to grow through targeted campaigns emphasizing luxury and exclusivity.
+  + Moderate performance but with potential to grow through targeted campaigns emphasizing luxury and exclusivity.
 
   *Recommendations:*
   
