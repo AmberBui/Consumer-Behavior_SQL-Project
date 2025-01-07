@@ -216,7 +216,6 @@ ORDER BY Recency
   
 **Spending Behavior Insights**
 
-Top Product Categories:
 - Wines:
   + The highest revenue driver across all income and age groups.
   + Especially popular among Gen X and Baby Boomers.
@@ -242,14 +241,11 @@ Top Product Categories:
 - Tailor campaigns by demographic and income groups to maximize resonance and profitability.
 
 **Marketing Campaign Insights**
-Campaign Performance:
-- Top Performers:
- + Campaign 4: Highest acceptance rate at 7.44%.
- + Campaign 3: Close second with an acceptance rate of 7.39%.
-- Moderate Performer:
- + Campaign 1: Acceptance rate of 6.44%.
-- Low Performer:
- + Campaign 2: Very low acceptance rate of 1.36%.
+
+- Campaign 4: Highest acceptance rate at 7.44%.
+- Campaign 3: Close second with an acceptance rate of 7.39%.
+- Campaign 1: Acceptance rate of 6.44%.
+- Campaign 2: Very low acceptance rate of 1.36%.
 
 *Recommendations:*
 -  Leverage Successful Campaigns: Analyze the messaging, timing, and target audience of Campaigns 3 and 4. -> Replicate successful elements for future campaigns.
@@ -264,6 +260,7 @@ Campaign Performance:
 - Customers with higher recency scores (longer time since last purchase) are at risk of churn.
   
   *Recommendations:*
+  
 - Engage High-Recency Customers:
  + Use personalized emails or app notifications with special offers to re-engage these customers.
  + Offer loyalty discounts or incentives for their next purchase.
