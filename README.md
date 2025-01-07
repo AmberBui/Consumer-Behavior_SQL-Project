@@ -200,7 +200,7 @@ GROUP BY Recency
 ORDER BY Recency
 ```
 ## 3. Insights & Recommendations
-**3.1. Customer Segmentation**
+### 3.1. Customer Segmentation
 
 - High-Income Customers:
   + Spend significantly more across all categories, particularly on Wines and Meat Products.
@@ -214,7 +214,7 @@ ORDER BY Recency
   + Spend far less overall, with minimal spending on high-value products like Wines or Gold Products.
   + Low spending across all product categories, with Sweet Products and Fruits being the most accessible.
   
-**3.2. Spending Behavior Insights**
+### 3.2. Spending Behavior Insights
 
 - Wines:
   + The highest revenue driver across all income and age groups.
@@ -240,7 +240,7 @@ ORDER BY Recency
   
 - Tailor campaigns by demographic and income groups to maximize resonance and profitability.
 
-**3.3. Marketing Campaign Insights**
+### 3.3. Marketing Campaign Insights
 
 - Campaign 4: Highest acceptance rate at 7.44%.
 - Campaign 3: Close second with an acceptance rate of 7.39%.
@@ -254,7 +254,7 @@ ORDER BY Recency
   
 -  Personalized Campaigns: Develop tailored campaigns targeting specific demographics, like Millennials or low-income groups, focusing on value-for-money or convenience.
 
-**Retention and Loyalty Insights**
+### 3.4. Retention and Loyalty Insights
 
 - Correlation Between Recency and Loyalty: Customers with lower recency scores (more recent purchases) are more likely to make additional purchases.
 - Customers with higher recency scores (longer time since last purchase) are at risk of churn.
