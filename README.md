@@ -232,7 +232,7 @@ ORDER BY Recency
 - Gold Products:
   + Moderate performance but with potential to grow through targeted campaigns emphasizing luxury and exclusivity.
 
-  *Recommendations:*
+*Recommendations:*
   
 - Strengthen customer retention and engagement in Wines and Meat Products for high-income and Gen X/Baby Boomer groups.
   
@@ -259,7 +259,7 @@ ORDER BY Recency
 - Correlation Between Recency and Loyalty: Customers with lower recency scores (more recent purchases) are more likely to make additional purchases.
 - Customers with higher recency scores (longer time since last purchase) are at risk of churn.
   
-  *Recommendations:*
+*Recommendations:*
   
  - Use personalized emails or app notifications with special offers to re-engage these customers.
  - Offer loyalty discounts or incentives for their next purchase.
