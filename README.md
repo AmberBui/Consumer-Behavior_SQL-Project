@@ -261,15 +261,10 @@ ORDER BY Recency
   
   *Recommendations:*
   
-- Engage High-Recency Customers:
- + Use personalized emails or app notifications with special offers to re-engage these customers.
- + Offer loyalty discounts or incentives for their next purchase.
-   
-- Enhance Loyalty Programs:
- + Introduce tiered rewards based on spending frequency and amount, encouraging repeat purchases.
-   
-- Targeted Retention Campaigns:
- + Create a "We Miss You" campaign offering discounts or free trials to customers with the highest recency scores.
+ - Use personalized emails or app notifications with special offers to re-engage these customers.
+ - Offer loyalty discounts or incentives for their next purchase.
+ - Introduce tiered rewards based on spending frequency and amount, encouraging repeat purchases.
+ - Create a "We Miss You" campaign offering discounts or free trials to customers with the highest recency scores.
 
   ### 4. Conclusion
 
