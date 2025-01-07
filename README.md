@@ -33,24 +33,24 @@
 
  **Objective:** Identify missing values.
 ```sql
-   FROM customers
-   WHERE Income is null 
-        OR year_birth is null
+FROM customers
+WHERE Income is null 
+   OR year_birth is null
 ```	
 
 A total of 24 rows lack an income value. These rows will be eliminated from the dataset.
  ```sql
-     DELETE customers
-     WHERE Income is null
+ DELETE customers
+ WHERE Income is null
 ```
 
 
  **Objective:** Find and remove duplicates 
 ``` sql
-    SELECT ID, COUNT(*)
-    FROM Customers
-    GROUP BY ID
-    HAVING COUNT(*) > 1
+SELECT ID, COUNT(*)
+FROM Customers
+GROUP BY ID
+HAVING COUNT(*) > 1
 ```
 ## 2.Data Analysis 
 
