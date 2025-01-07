@@ -54,7 +54,7 @@ A total of 24 rows lack an income value. These rows will be eliminated from the 
 ```
 ## 2.Data Analysis 
 
-### A. Customer Segmentation & Spending Behavior 
+### 2.1. Customer Segmentation & Spending Behavior 
 
 ```sql
 SELECT Year_Birth
@@ -146,7 +146,7 @@ GROUP BY Category, Age_Group, Income_Group
 ORDER BY TotalSpending DESC
 ```
 
-### B. Campaign Effectiveness 
+### 2.2. Campaign Effectiveness 
 
 **Objective:** Measure the success of different marketing campaigns.
 ```sql
@@ -190,7 +190,7 @@ SELECT
 FROM 
     customers
 ```
-### C. Customer Retention Analysis
+### 2.3. Customer Retention Analysis
 
 **Objective:** Investigate recency and loyalty through customers’ last purchase and campaign responses.
 ```sql
@@ -200,7 +200,7 @@ GROUP BY Recency
 ORDER BY Recency
 ```
 ## 3. Insights & Recommendations
-**Customer Segmentation**
+**3.1. Customer Segmentation**
 
 - High-Income Customers:
   + Spend significantly more across all categories, particularly on Wines and Meat Products.
@@ -214,7 +214,7 @@ ORDER BY Recency
   + Spend far less overall, with minimal spending on high-value products like Wines or Gold Products.
   + Low spending across all product categories, with Sweet Products and Fruits being the most accessible.
   
-**Spending Behavior Insights**
+**3.2. Spending Behavior Insights**
 
 - Wines:
   + The highest revenue driver across all income and age groups.
@@ -240,7 +240,7 @@ ORDER BY Recency
   
 - Tailor campaigns by demographic and income groups to maximize resonance and profitability.
 
-**Marketing Campaign Insights**
+**3.3. Marketing Campaign Insights**
 
 - Campaign 4: Highest acceptance rate at 7.44%.
 - Campaign 3: Close second with an acceptance rate of 7.39%.
