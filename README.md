@@ -208,30 +208,30 @@ ORDER BY Recency
   
 - Middle-Income Customers:
   + Moderate engagement with Wines, Meat Products, and Gold Products.
-- Gen X is the largest contributor in this group, followed by Baby Boomers.
+  + Gen X is the largest contributor in this group, followed by Baby Boomers.
   
-• Low-Income Customers:
-- Spend far less overall, with minimal spending on high-value products like Wines or Gold Products.
-- Low spending across all product categories, with Sweet Products and Fruits being the most accessible.
-- 
+- Low-Income Customers:
+  + Spend far less overall, with minimal spending on high-value products like Wines or Gold Products.
+  + Low spending across all product categories, with Sweet Products and Fruits being the most accessible.
+  
 **Spending Behavior Insights**
 
 Top Product Categories:
 - Wines:
-+ The highest revenue driver across all income and age groups.
-+ Especially popular among Gen X and Baby Boomers.
+ + The highest revenue driver across all income and age groups.
+ + Especially popular among Gen X and Baby Boomers.
   
 - Meat Products:
-+ Strong performance among high and middle-income groups, particularly Gen X.
+ + Strong performance among high and middle-income groups, particularly Gen X.
 
 - Fruits:
-+ Low engagement among all demographics. -> Opportunity to market ready-to-eat or pre-packaged options for convenience.
-- 
+ + Low engagement among all demographics. -> Opportunity to market ready-to-eat or pre-packaged options for convenience.
+   
 - Sweet Products:
-+ Weak performance among Millennials and low-income groups. -> Introduce healthier alternatives or smaller-sized products to boost sales.
+ + Weak performance among Millennials and low-income groups. -> Introduce healthier alternatives or smaller-sized products to boost sales.
   
-• Gold Products:
-- Moderate performance but with potential to grow through targeted campaigns emphasizing luxury and exclusivity.
+- Gold Products:
++ Moderate performance but with potential to grow through targeted campaigns emphasizing luxury and exclusivity.
 
   *Recommendations:*
   
@@ -244,21 +244,17 @@ Top Product Categories:
 **Marketing Campaign Insights**
 Campaign Performance:
 - Top Performers:
-+ Campaign 4: Highest acceptance rate at 7.44%.
-+ Campaign 3: Close second with an acceptance rate of 7.39%.
+ + Campaign 4: Highest acceptance rate at 7.44%.
+ + Campaign 3: Close second with an acceptance rate of 7.39%.
 - Moderate Performer:
-+ Campaign 1: Acceptance rate of 6.44%.
+ + Campaign 1: Acceptance rate of 6.44%.
 - Low Performer:
-+ Campaign 2: Very low acceptance rate of 1.36%.
+ + Campaign 2: Very low acceptance rate of 1.36%.
 
 *Recommendations:*
--  Leverage Successful Campaigns: Analyze the messaging, timing, and target audience of Campaigns 3 and 4.
+-  Leverage Successful Campaigns: Analyze the messaging, timing, and target audience of Campaigns 3 and 4. -> Replicate successful elements for future campaigns.
   
--  Replicate successful elements for future campaigns.
-  
--  Revamp Underperforming Campaigns:Review Campaign 2 to identify weaknesses in content, timing, or targeting.
-  
--  If improvements are unfeasible, consider discontinuing Campaign 2.
+-  Review Campaign 2 to identify weaknesses in content, timing, or targeting. -> If improvements are unfeasible, consider discontinuing Campaign 2.
   
 -  Personalized Campaigns: Develop tailored campaigns targeting specific demographics, like Millennials or low-income groups, focusing on value-for-money or convenience.
 
@@ -267,16 +263,16 @@ Campaign Performance:
 - Correlation Between Recency and Loyalty: Customers with lower recency scores (more recent purchases) are more likely to make additional purchases.
 - Customers with higher recency scores (longer time since last purchase) are at risk of churn.
   
-  Recommendations:*
+  *Recommendations:*
 - Engage High-Recency Customers:
-+ Use personalized emails or app notifications with special offers to re-engage these customers.
-+ Offer loyalty discounts or incentives for their next purchase.
+ + Use personalized emails or app notifications with special offers to re-engage these customers.
+ + Offer loyalty discounts or incentives for their next purchase.
+   
 - Enhance Loyalty Programs:
-+ Introduce tiered rewards based on spending frequency and amount, encouraging repeat purchases.
-+ Include exclusive perks for high-value customers (e.g., free shipping or early access to sales).
+ + Introduce tiered rewards based on spending frequency and amount, encouraging repeat purchases.
+   
 - Targeted Retention Campaigns:
-+ Create a "We Miss You" campaign offering discounts or free trials to customers with the highest recency scores.
-+ Use predictive analytics to identify customers at risk of churn and proactively engage them with attractive offers.
+ + Create a "We Miss You" campaign offering discounts or free trials to customers with the highest recency scores.
 
   ### 4. Conclusion
 
